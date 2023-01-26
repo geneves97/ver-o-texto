@@ -1,0 +1,7 @@
+{
+  "name": "Ver o Texto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
